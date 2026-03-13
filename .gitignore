@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+cam_env/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MediaMTX / bore binaries (if checked in accidentally)
+mediamtx_v1.15.5_windows_amd64/
+bore-v0.6.0-i686-pc-windows-msvc/
+
+# Logs
+*.log
+
+# Python dependency lock files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+
+# Temporary files
+*.tmp
+*.bak
+main1.py
+temp.py

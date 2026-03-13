@@ -1,0 +1,5 @@
+# No Python dependencies required for this script.
+# It uses only Python standard library modules (subprocess, sys, time, os, re, threading, pathlib, socket).
+# External tools required at runtime:
+#   - FFmpeg (https://www.gyan.dev/ffmpeg/builds/)
+#   - MediaMTX (https://github.com/bluenviron/mediamtx/releases)
