@@ -24,7 +24,7 @@ StreamCam/
 └── bore-v0.6.0-i686-pc-windows-msvc/ # (optional) bundled bore binary folder
 ```
 
-> ✅ If you don’t want to commit the binaries, keep them locally and they’ll still be detected at runtime.
+> ✅ If you don’t get the binaries, in the repository then download them from the provided links.
 
 ---
 
