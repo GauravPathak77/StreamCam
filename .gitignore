@@ -21,8 +21,8 @@ cam_env/
 Thumbs.db
 
 # MediaMTX / bore binaries (if checked in accidentally)
-mediamtx_v1.15.5_windows_amd64/
-bore-v0.6.0-i686-pc-windows-msvc/
+# mediamtx_v1.15.5_windows_amd64/
+# bore-v0.6.0-i686-pc-windows-msvc/
 
 # Logs
 *.log
